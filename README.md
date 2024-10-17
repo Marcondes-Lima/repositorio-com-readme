@@ -8,6 +8,8 @@ Um projeto de teste com um arquivo Readme
 
 [<img src="arrax.png">]
 
+[<img src="./Dragões2.gif">]
+
 ## Tecnologias Utilizadas
 - HTML
 - CSS
